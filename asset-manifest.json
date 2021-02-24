@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/azul/static/css/main.88df7bc5.chunk.css",
+    "main.js": "/azul/static/js/main.a8f470d3.chunk.js",
+    "main.js.map": "/azul/static/js/main.a8f470d3.chunk.js.map",
+    "runtime-main.js": "/azul/static/js/runtime-main.cb87e6c6.js",
+    "runtime-main.js.map": "/azul/static/js/runtime-main.cb87e6c6.js.map",
+    "static/js/2.5e69fd62.chunk.js": "/azul/static/js/2.5e69fd62.chunk.js",
+    "static/js/2.5e69fd62.chunk.js.map": "/azul/static/js/2.5e69fd62.chunk.js.map",
+    "index.html": "/azul/index.html",
+    "precache-manifest.1375cfdc35ee4a5d894b0f4ff4aa5b4e.js": "/azul/precache-manifest.1375cfdc35ee4a5d894b0f4ff4aa5b4e.js",
+    "service-worker.js": "/azul/service-worker.js",
+    "static/css/main.88df7bc5.chunk.css.map": "/azul/static/css/main.88df7bc5.chunk.css.map",
+    "static/js/2.5e69fd62.chunk.js.LICENSE.txt": "/azul/static/js/2.5e69fd62.chunk.js.LICENSE.txt",
+    "static/media/Circle_Tan_Solid2.png": "/azul/static/media/Circle_Tan_Solid2.bd4e2b8b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb87e6c6.js",
+    "static/js/2.5e69fd62.chunk.js",
+    "static/css/main.88df7bc5.chunk.css",
+    "static/js/main.a8f470d3.chunk.js"
+  ]
+}
