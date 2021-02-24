@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/azul/static/css/main.668ce258.chunk.css",
-    "main.js": "/azul/static/js/main.cf555d83.chunk.js",
-    "main.js.map": "/azul/static/js/main.cf555d83.chunk.js.map",
+    "main.css": "/azul/static/css/main.f35badbb.chunk.css",
+    "main.js": "/azul/static/js/main.347dcda5.chunk.js",
+    "main.js.map": "/azul/static/js/main.347dcda5.chunk.js.map",
     "runtime-main.js": "/azul/static/js/runtime-main.cb87e6c6.js",
     "runtime-main.js.map": "/azul/static/js/runtime-main.cb87e6c6.js.map",
     "static/js/2.5e69fd62.chunk.js": "/azul/static/js/2.5e69fd62.chunk.js",
     "static/js/2.5e69fd62.chunk.js.map": "/azul/static/js/2.5e69fd62.chunk.js.map",
     "index.html": "/azul/index.html",
-    "precache-manifest.22db6c540092528bf37d3a2ab71c2e3c.js": "/azul/precache-manifest.22db6c540092528bf37d3a2ab71c2e3c.js",
+    "precache-manifest.a5e52707402c2257d3621600f77f4c85.js": "/azul/precache-manifest.a5e52707402c2257d3621600f77f4c85.js",
     "service-worker.js": "/azul/service-worker.js",
-    "static/css/main.668ce258.chunk.css.map": "/azul/static/css/main.668ce258.chunk.css.map",
+    "static/css/main.f35badbb.chunk.css.map": "/azul/static/css/main.f35badbb.chunk.css.map",
     "static/js/2.5e69fd62.chunk.js.LICENSE.txt": "/azul/static/js/2.5e69fd62.chunk.js.LICENSE.txt",
     "static/media/Circle_Tan_Solid2.png": "/azul/static/media/Circle_Tan_Solid2.bd4e2b8b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb87e6c6.js",
     "static/js/2.5e69fd62.chunk.js",
-    "static/css/main.668ce258.chunk.css",
-    "static/js/main.cf555d83.chunk.js"
+    "static/css/main.f35badbb.chunk.css",
+    "static/js/main.347dcda5.chunk.js"
   ]
 }
