@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/azul/static/css/main.ebdd54dc.chunk.css",
+    "main.css": "/azul/static/css/main.44f9a54e.chunk.css",
     "main.js": "/azul/static/js/main.269bbf2f.chunk.js",
     "main.js.map": "/azul/static/js/main.269bbf2f.chunk.js.map",
     "runtime-main.js": "/azul/static/js/runtime-main.cb87e6c6.js",
@@ -8,16 +8,16 @@
     "static/js/2.5e69fd62.chunk.js": "/azul/static/js/2.5e69fd62.chunk.js",
     "static/js/2.5e69fd62.chunk.js.map": "/azul/static/js/2.5e69fd62.chunk.js.map",
     "index.html": "/azul/index.html",
-    "precache-manifest.cae8fc272096510c2586de9b9b639b7e.js": "/azul/precache-manifest.cae8fc272096510c2586de9b9b639b7e.js",
+    "precache-manifest.db1dd5bfcbb2313112332ded61a3527a.js": "/azul/precache-manifest.db1dd5bfcbb2313112332ded61a3527a.js",
     "service-worker.js": "/azul/service-worker.js",
-    "static/css/main.ebdd54dc.chunk.css.map": "/azul/static/css/main.ebdd54dc.chunk.css.map",
+    "static/css/main.44f9a54e.chunk.css.map": "/azul/static/css/main.44f9a54e.chunk.css.map",
     "static/js/2.5e69fd62.chunk.js.LICENSE.txt": "/azul/static/js/2.5e69fd62.chunk.js.LICENSE.txt",
     "static/media/Circle_Tan_Solid2.png": "/azul/static/media/Circle_Tan_Solid2.bd4e2b8b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cb87e6c6.js",
     "static/js/2.5e69fd62.chunk.js",
-    "static/css/main.ebdd54dc.chunk.css",
+    "static/css/main.44f9a54e.chunk.css",
     "static/js/main.269bbf2f.chunk.js"
   ]
 }
