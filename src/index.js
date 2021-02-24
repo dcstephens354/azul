@@ -25,7 +25,8 @@ let factoryStyle = {
     height: "200px",
     backgroundImage: "url("+FactoryBackground+")",
     backgroundSize: "cover",
-    position: "relative"
+    position: "relative",
+    minWidth: "200px"
 }
 
 function Factory (props){
