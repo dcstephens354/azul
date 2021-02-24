@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de557af8272fd9dbd1b481ecab14b753",
+    "revision": "efe5a12db94e5702cce0d5f2ec28e836",
     "url": "/azul/index.html"
   },
   {
-    "revision": "11644025e5a0fc7d4532",
-    "url": "/azul/static/css/main.88df7bc5.chunk.css"
+    "revision": "370919dc9abec81489b1",
+    "url": "/azul/static/css/main.ebdd54dc.chunk.css"
   },
   {
     "revision": "245e92aa3c50cca564b3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/azul/static/js/2.5e69fd62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11644025e5a0fc7d4532",
+    "revision": "370919dc9abec81489b1",
     "url": "/azul/static/js/main.269bbf2f.chunk.js"
   },
   {
